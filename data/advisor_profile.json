@@ -1,0 +1,13 @@
+{
+  "professor": "Tianfu Wu",
+  "university": "North Carolina State University",
+  "program": "Computer Science PhD",
+  "research_area": "Computer vision, deep learning, interpretable visual modeling",
+  "representative_paper": "Attentive Normalization; 2020; ECCV",
+  "paper_link": "https://scholar.google.com/scholar?q=Attentive+Normalization",
+  "project_family": "vision",
+  "focus": "Computer vision",
+  "value_add_artifact": "distribution-shift and failure-analysis benchmark for vision/multimodal models",
+  "next_step": "Replace seed cases with public/lab visual examples and run one real pretrained baseline.",
+  "generated_for": "professor outreach value-add starter"
+}
